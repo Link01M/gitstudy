@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 nihap
+=======
+happy birthday for mina
+hhh
+>>>>>>> b1c434cfc46bccea7cce134f3d16f2e9fb54dc42
